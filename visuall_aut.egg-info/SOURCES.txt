@@ -1,0 +1,9 @@
+README.md
+setup.py
+tests/test_main.py
+visuall_aut.egg-info/PKG-INFO
+visuall_aut.egg-info/SOURCES.txt
+visuall_aut.egg-info/dependency_links.txt
+visuall_aut.egg-info/entry_points.txt
+visuall_aut.egg-info/requires.txt
+visuall_aut.egg-info/top_level.txt

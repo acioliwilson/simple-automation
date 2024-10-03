@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: visuall-aut
+Version: 0.1
+Summary: Um projeto para gerar senhas usando Selenium.
+Home-page: https://github.com/acioliwilson/visuall-aut
+Author: Wil
+Author-email: w.aciolib@gmail.com
+Requires-Dist: selenium
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: pyperclip
+Requires-Dist: webdriver-manager
